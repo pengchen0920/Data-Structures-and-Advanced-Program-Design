@@ -1,3 +1,0 @@
-實做上課教的 augmenting path algorithm,不過你不用完成整個實做, 只要照規則找出一條 augmenting path 就好了。本題要求你使用上課教的 BFS (breath-first search,廣 度優先)方法,在每一階層中考慮由s通往目標節點之子路徑的最大運量,由大而小放進 search queue (搜尋佇列)中,若平手則將最終節點編號較小的先放入queue。請在找到第一條可以由s運送到t的 路徑時結束,並且輸出該路徑。
-
-出題教授：台大資管孔令傑教授
